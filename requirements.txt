@@ -1,0 +1,5 @@
+azure-core==1.31.0
+azure-devops==7.1.0b4
+streamlit==1.39.0
+ollama==0.3.3
+Markdown==3.7
