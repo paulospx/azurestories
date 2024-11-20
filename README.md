@@ -30,7 +30,7 @@ Azure Stories
 
 To install this project, follow these steps:
 
-1. Clone this repository using `git clone https://github.com/your-username/agile-story-creator.git`
+1. Clone this repository using `git clone https://github.com/paulospx/azurestories.git`
 2. Install the required dependencies by running `pip install -r requirements.txt`
 3. Set up your Azure Board credentials in the `config.py` file.
 
