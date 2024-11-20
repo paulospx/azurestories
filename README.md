@@ -6,7 +6,11 @@ A tool that utilizes Artificial Intelligence to generate Agile stories and sends
 
 This project is a tool that uses Artificial Intelligence to create Agile stories and sends them to an Azure Board. The goal of this project is to automate the process of creating and sending stories for your team's backlog.
 
-![Azure Stories](/images/azure-stories-1.png)
+![Azure Stories](/images/landing.png)
+
+Azure Stories
+
+![Azure Stories Screenshot 1](/images/azure-stories-1.png)
 
 ![Azure Stories at Azure DevOps](/images/azure-stories-2.png)
 
